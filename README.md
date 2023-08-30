@@ -25,3 +25,10 @@ Explain the steps you took to clean and preprocess the data for analysis. You ca
 import pandas as pd
 
 # Your data cleaning code here
+
+## Exploratory Analysis
+
+## Result
+
+## Conclusion
+
