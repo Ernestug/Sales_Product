@@ -5,4 +5,4 @@ The dataset was obtained from kaggle and it contains sales record for 2019 and 2
 ..Tools Used
 [Data cleaning]
 [Exploratory data analysis]
-*** Result***
+*** Result****
