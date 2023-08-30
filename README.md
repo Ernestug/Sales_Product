@@ -8,13 +8,13 @@ Provide a brief introduction to your project. What problem does it solve? Why is
 
 ## Tools Used
 
-List the tools, programming languages, and libraries you used for this project.
+Programming language, and libraries you used for this project.
 
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- plotly
 
 ## Data Cleaning
 
