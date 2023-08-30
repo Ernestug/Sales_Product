@@ -26,9 +26,9 @@ import pandas as pd
 
 # Your data cleaning code here
 
-## Exploratory Analysis
+##   Exploratory Analysis
 
-## Result
+##   Result
 
-## Conclusion
+##   Conclusion
 
